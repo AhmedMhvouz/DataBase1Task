@@ -1,2 +1,2 @@
 # DataBase2
-sql project for faculty
+simple database project with sql for faculty
