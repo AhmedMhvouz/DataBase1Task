@@ -1,2 +1,2 @@
-# DataBase2
-simple database project with sql for faculty
+# DataBaseTask
+simple database project with sql, erd and schema for faculty
