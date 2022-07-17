@@ -1,2 +1,2 @@
 # DataBase1Task
-simple database project with erd and schema for faculty
+simple database project with erd , schema and sql queries for faculty
